@@ -1,5 +1,9 @@
 apple is red
 apple is green
 apple is yellow
+<<<<<<< HEAD
 apple is black
 
+=======
+apple is blue
+>>>>>>> ed4e0868e947a2832666cfd6bbaa1ff6d617e6a6
